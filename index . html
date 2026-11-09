@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Englink Language Academy | Kursus Bahasa Inggris Online Private 1-on-1</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://jsdelivr.net"></script>
+    <!-- Font Awesome CDN untuk Ikon -->
+    <link rel="stylesheet" href="https://cloudflare.com">
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased">
+
+    <!-- NAVIGATION BAR -->
+    <nav class="bg-slate-950 border-b border-slate-800 sticky top-0 z-50 px-6 py-4 shadow-md">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <div class="bg-amber-500 text-slate-950 px-3 py-1.5 rounded-lg font-black text-xl tracking-wider shadow-sm">EL</div>
+                <div class="flex flex-col">
+                    <span class="text-white font-black text-xl tracking-tight leading-none">Englink</span>
+                    <span class="text-amber-400 font-medium text-xs tracking-widest uppercase mt-1">Language Academy</span>
+                </div>
+            </div>
+            <div class="hidden md:flex items-center gap-8 text-sm font-semibold text-slate-300">
+                <a href="#keunggulan" class="hover:text-amber-400 transition duration-200">Keunggulan</a>
+                <a href="#harga" class="hover:text-amber-400 transition duration-200">Paket Belajar</a>
+                <a href="https://wa.me" target="_blank" class="bg-amber-500 hover:bg-amber-600 text-slate-950 font-bold px-4 py-2 rounded-xl shadow transition duration-200">Hubungi Kami</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- HERO SECTION -->
+    <header class="bg-gradient-to-br from-slate-950 via-slate-900 to-indigo-950 text-white py-24 px-6 text-center border-b border-slate-900 relative overflow-hidden">
+        <div class="absolute inset-0 opacity-5 bg-[radial-gradient(#f59e0b_1px,transparent_1px)] [background-size:16px_16px]"></div>
+        <div class="max-w-4xl mx-auto relative z-10">
+            <span class="bg-slate-900/80 border border-slate-700 text-amber-400 text-xs font-bold px-4 py-2 rounded-full uppercase tracking-widest shadow-sm">Premium 1-on-1 Agency Model</span>
+            <h1 class="text-4xl md:text-6xl font-black mt-8 leading-tight tracking-tight">Kuasai Bahasa Inggris Lebih Cepat Bersama <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 to-amber-200">Englink</span></h1>
+            <p class="text-lg md:text-xl text-slate-400 mt-6 max-w-2xl mx-auto leading-relaxed">Satu-satunya akademi bahasa dengan sistem manajemen tutor spesialis. Belajar semua jenis skill (Speaking, TOEFL, Writing) sesuai target personal Anda.</p>
+            <div class="mt-12 flex flex-col sm:flex-row justify-center gap-4">
+                <a href="https://wa.me" target="_blank" class="bg-amber-500 hover:bg-amber-600 text-slate-950 font-black px-8 py-4 rounded-xl shadow-xl shadow-amber-500/10 transition duration-300 text-lg flex items-center justify-center gap-2">
+                    <i class="fa-brands fa-whatsapp text-xl"></i> Daftar Tes Gratis (15 Menit)
+                </a>
+                <a href="#harga" class="bg-transparent border border-slate-700 hover:border-amber-500 text-slate-300 hover:text-white font-semibold px-8 py-4 rounded-xl transition duration-300 text-lg">
+                    Lihat Paket Harga
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- FITUR / KEUNGGULAN UTAMA -->
+    <section id="keunggulan" class="py-24 px-6 max-w-6xl mx-auto scroll-mt-16">
+        <div class="text-center max-w-2xl mx-auto mb-16">
+            <h2 class="text-3xl md:text-4xl font-black text-slate-900 tracking-tight">Sistem Belajar Tersentralisasi Englink</h2>
+            <p class="text-slate-600 mt-4 leading-relaxed">Kami mengelola kurikulum secara profesional dan mencocokkan Anda dengan pengajar spesialis lepasan terbaik demi capaian hasil yang terstandar.</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-200/80 hover:shadow-md transition duration-300">
+                <div class="w-12 h-12 bg-slate-950 text-amber-400 rounded-xl flex items-center justify-center text-xl font-bold mb-6 shadow-sm">
+                    <i class="fa-solid fa-user-tie"></i>
+                </div>
+                <h3 class="text-xl font-bold text-slate-900 mb-3">Tutor Spesialis Terkurasi</h3>
+                <p class="text-slate-600 leading-relaxed">Murid dipasangkan dengan tutor khusus yang menguasai keahlian spesifik berdasarkan kebutuhan pemetaan hasil tes diagnostik awal Anda.</p>
+            </div>
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-200/80 hover:shadow-md transition duration-300">
+                <div class="w-12 h-12 bg-slate-950 text-amber-400 rounded-xl flex items-center justify-center text-xl font-bold mb-6 shadow-sm">
+                    <i class="fa-solid fa-sliders"></i>
+                </div>
+                <h3 class="text-xl font-bold text-slate-900 mb-3">Jadwal Menyesuaikan Anda</h3>
+                <p class="text-slate-600 leading-relaxed">Fleksibilitas penuh bagi kalangan profesional sibuk maupun mahasiswa. Atur slot waktu mengajar mingguan langsung melalui koordinasi admin terpusat.</p>
+            </div>
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-200/80 hover:shadow-md transition duration-300">
+                <div class="w-12 h-12 bg-slate-950 text-amber-400 rounded-xl flex items-center justify-center text-xl font-bold mb-6 shadow-sm">
+                    <i class="fa-solid fa-layer-group"></i>
+                </div>
+                <h3 class="text-xl font-bold text-slate-900 mb-3">Semua Kategori Skill</h3>
+                <p class="text-slate-600 leading-relaxed">Satu gerbang untuk semua kebutuhan. Mulai dari General Conversation, Academic Writing, Tata Bahasa (Grammar), hingga persiapan intensif TOEFL/IELTS.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- HARGA PAKET -->
+    <section id="harga" class="bg-slate-950 text-white py-24 px-6 border-y border-slate-950 scroll-mt-16">
+        <div class="max-w-6xl mx-auto">
+            <div class="text-center max-w-2xl mx-auto mb-20">
+                <h2 class="text-3xl md:text-4xl font-black text-white tracking-tight">Investasi Program Akademik</h2>
+                <p class="text-slate-400 mt-4 leading-relaxed">Pilih paket kuota sesi sesuai dengan target waktu dan kedalaman materi akademik yang ingin Anda capai.</p>
+            </div>
+            
+            <div class="grid grid-cols-1 lg:grid-cols-4 gap-6 items-stretch">
+                <!-- Paket Satuan -->
+                <div class="bg-slate-900/40 p-8 rounded-2xl border border-slate-800 flex flex-col justify-between hover:border-slate-700 transition duration-200">
+                    <div>
+                        <h4 class="text-slate-500 font-bold uppercase tracking-wider text-xs">Trial Package</h4>
+                        <h3 class="text-xl font-bold text-white mt-2">1 Sesi</h3>
+                        <div class="mt-4">
+                            <span class="text-3xl font-black text-amber-400">Rp 65K</span>
+                            <span class="text-slate-500 text-sm"> / sesi</span>
+                        </div>
+                        <ul class="mt-8 space-y-4 text-sm text-slate-400 border-t border-slate-800/80 pt-6">
+                            <li><i class="fa-solid fa-circle-check text-amber-400 mr-2"></i> 1x Sesi Kelas Privat</li>
+                            <li><i class="fa-solid fa-circle-check text-amber-400 mr-2"></i> Durasi Penuh 50-60 Menit</li>
+                            <li><i class="fa-solid fa-circle-check text-amber-400 mr-2"></i> Bebas Pilih Kategori Skill</li>
+                        </ul>
+                    </div>
+                    <a href="https://wa.me" target="_blank" class="block text-center bg-slate-800 hover:bg-amber-500 hover:text-slate-950 text-white font-bold py-3 px-4 rounded-xl mt-8 transition duration-200 shadow-sm">Pilih Paket</a>
+                </div>
+
+                <!-- Paket 5 Sesi -->
+                <div class="bg-slate-900/40 p-8 rounded-2xl border border-slate-800 flex flex-col justify-between hover:border-slate-700 transition duration-200">
+                    <div>
+                        <h4 class="text-slate-500 font-bold uppercase tracking-wider text-xs">Short Course</h4>
+                        <h3 class="text-xl font-bold text-white mt-2">5 Sesi</h3>
+                        <div class="mt-4">
+                            <span class="text-3xl font-black text-amber-400">Rp 275K</span>
+                        </div>
+                        <p class="text-xs text-emerald-400 font-semibold mt-1">Lebih hemat & efisien</p>
+                        <ul class="mt-8 space-y-4 text-sm text-slate-400 border-t border-slate-800/80 pt-6">
+                            <li><i class="fa-solid fa-circle-check text-amber-400 mr-2"></i> 5x Sesi Kelas Privat</li>
+                            <li><i class="fa-solid fa-circle-check text-amber-400 mr-2"></i> Kurikulum Target Dasar</li>
+                            <li><i class="fa-solid fa-circle-check text-amber-400 mr-2"></i> Evaluasi Capaian Paket</li>
+                        </ul>
+                    </div>
