@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Platform Kursus Bahasa Inggris Online Terbaik</title>
+    <!-- Tailwind CSS CDN untuk desain modern tanpa file CSS tambahan -->
+    <script src="https://tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cloudflare.com">
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans antialiased">
+
+    <!-- NAVIGATION BAR -->
+    <nav class="bg-white shadow-md sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="#" class="text-2xl font-bold text-blue-6xl flex items-center gap-2 text-blue-6xl text-blue-600">
+                <i class="fa-solid fa-graduation-cap"></i> EnglishAgency
+            </a>
+            <div class="hidden md:flex space-x-8 font-medium">
+                <a href="#tentang" class="hover:text-blue-600 transition">Tentang Kami</a>
+                <a href="#keunggulan" class="hover:text-blue-600 transition">Keunggulan</a>
+                <a href="#paket" class="hover:text-blue-600 transition">Paket Belajar</a>
+                <a href="#tutor" class="hover:text-blue-600 transition">Karir Tutor</a>
+            </div>
+            <a href="#daftar" class="bg-blue-600 text-white px-5 py-2.5 rounded-full font-semibold hover:bg-blue-700 transition shadow-sm">
+                Daftar Sekarang
+            </a>
+        </div>
+    </nav>
+
+    <!-- HERO SECTION -->
+    <header class="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-20 px-6 text-center">
+        <div class="max-w-4xl mx-auto">
+            <span class="bg-blue-500/30 text-blue-100 text-sm font-semibold uppercase tracking-wider px-4 py-1.5 rounded-full">
+                #1 On-Demand English Tutoring
+            </span>
+            <h1 class="text-4xl md:text-6xl font-extrabold mt-6 leading-tight">
+                Kuasai Bahasa Inggris Bersama Tutor Pilihan Anda
+            </h1>
+            <p class="text-lg md:text-xl text-blue-100 mt-6 max-w-2xl mx-auto">
+                Belajar lebih fleksibel secara online dengan sistem monitoring ketat dan kurikulum yang disesuaikan untuk kebutuhan karir maupun akademik Anda.
+            </p>
+            <div class="mt-10 flex flex-wrap justify-center gap-4">
+                <a href="#daftar" class="bg-white text-blue-600 px-8 py-3.5 rounded-full font-bold hover:bg-gray-100 transition shadow-lg">
+                    Ambil Trial Class Gratis
+                </a>
+                <a href="#paket" class="border border-white/40 text-white px-8 py-3.5 rounded-full font-semibold hover:bg-white/10 transition">
+                    Lihat Pilihan Paket
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- TENTANG KAMI & VISI MISI -->
+    <section id="tentang" class="py-20 px-6 max-w-7xl mx-auto">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+            <h2 class="text-3xl font-bold md:text-4xl text-gray-900">Misi Kami untuk Masa Depan Anda</h2>
+            <p class="text-gray-600 mt-4 text-lg">Kami menghubungkan pelajar dan profesional dengan jaringan tutor lepasan (*freelance*) terbaik untuk pengalaman belajar yang dipersonalisasi.</p>
+        </div>
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-gray-100">
+                <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-xl flex items-center justify-center text-xl font-bold mb-6">1</div>
+                <h3 class="text-xl font-bold mb-3 text-gray-900">Koneksi Tutor Terbaik</h3>
+                <p class="text-gray-600">Menghubungkan Anda dengan tutor terkurasi yang siap membantu kebutuhan spesifik seperti TOEFL, IELTS, maupun Percakapan.</p>
+            </div>
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-gray-100">
+                <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-xl flex items-center justify-center text-xl font-bold mb-6">2</div>
+                <h3 class="text-xl font-bold mb-3 text-gray-900">Fleksibilitas Penuh</h3>
+                <p class="text-gray-600">Pilih sendiri jadwal belajar Anda melalui sistem kalender otomatis kami yang terintegrasi dengan waktu luang tutor.</p>
+            </div>
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-gray-100">
+                <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-xl flex items-center justify-center text-xl font-bold mb-6">3</div>
+                <h3 class="text-xl font-bold mb-3 text-gray-900">Kualitas Terjamin</h3>
+                <p class="text-gray-600">Setiap sesi dipantau melalui sistem monitoring kualitas dan *rating* berkala demi kenyamanan belajar Anda.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- PRICING / PAKET BELAJAR -->
+    <section id="paket" class="bg-gray-100 py-20 px-6">
+        <div class="max-w-7xl mx-auto">
+            <div class="text-center max-w-3xl mx-auto mb-16">
+                <h2 class="text-3xl font-bold md:text-4xl text-gray-900">Pilihan Paket Belajar Privat</h2>
+                <p class="text-gray-600 mt-4 text-lg">Investasi terbaik untuk peningkatan *skill* komunikasi global Anda tanpa kontrak mengikat.</p>
+            </div>
+            <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                <!-- Paket 8 Sesi -->
+                <div class="bg-white p-8 rounded-3xl shadow-md border border-gray-100 relative overflow-hidden flex flex-col justify-between">
+                    <div>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-2">Paket Standar</h3>
+                        <p class="text-gray-500 mb-6 text-sm">Cocok untuk pemula & *refreshment*</p>
+                        <div class="text-4xl font-extrabold text-gray-900 mb-6">
+                            Rp 1.200.000 <span class="text-sm font-normal text-gray-500">/ 8 Sesi</span>
+                        </div>
+                        <ul class="space-y-4 mb-8">
+                            <li class="flex items-center gap-3 text-gray-600"><i class="fa-solid fa-check text-green-500"></i> 1 On 1 Kelas Privat Eksklusif</li>
+                            <li class="flex items-center gap-3 text-gray-600"><i class="fa-solid fa-check text-green-500"></i> Durasi 60 Menit / Sesi</li>
+                            <li class="flex items-center gap-3 text-gray-600"><i class="fa-solid fa-check text-green-500"></i> Aplikasi Zoom / Meet Premium</li>
+                            <li class="flex items-center gap-3 text-gray-600"><i class="fa-solid fa-check text-green-500"></i> Bebas Pilih Jadwal Fleksibel</li>
+                        </ul>
+                    </div>
+                    <a href="#daftar" class="block text-center bg-gray-900 text-white py-3.5 rounded-xl font-bold hover:bg-gray-800 transition">Pilih Paket</a>
+                </div>
+                <!-- Paket 16 Sesi -->
+                <div class="bg-white p-8 rounded-3xl shadow-xl border-2 border-blue-600 relative overflow-hidden flex flex-col justify-between">
+                    <div class="absolute top-0 right-0 bg-blue-600 text-white text-xs font-bold px-4 py-1.5 rounded-bl-xl uppercase tracking-wider">Paling Populer</div>
+                    <div>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-2">Paket Intensif</h3>
+                        <p class="text-gray-500 mb-6 text-sm">Terbaik untuk akselerasi karir & tes</p>
+                        <div class="text-4xl font-extrabold text-gray-900 mb-6">
+                            Rp 2.400.000 <span class="text-sm font-normal text-gray-500">/ 16 Sesi</span>
+                        </div>
+                        <ul class="space-y-4 mb-8">
+                            <li class="flex items-center gap-3 text-gray-600"><i class="fa-solid fa-check text-green-500"></i> 1 On 1 Kelas Privat Eksklusif</li>
+                            <li class="flex items-center gap-3 text-gray-600"><i class="fa-solid fa-check text-green-500"></i> Durasi 60 Menit / Sesi</li>
+                            <li class="flex items-center gap-3 text-gray-600"><i class="fa-solid fa-check text-green-500"></i> Aplikasi Zoom / Meet Premium</li>
+                            <li class="flex items-center gap-3 text-gray-600"><i class="fa-solid fa-check text-green-500"></i> Bebas Pilih Jadwal Fleksibel</li>
+                            <li class="flex items-center gap-3 text-blue-600 font-medium"><i class="fa-solid fa-circle-plus text-blue-500"></i> Prioritas Booking Jadwal</li>
+                        </ul>
+                    </div>
+                    <a href="#daftar" class="block text-center bg-blue-600 text-white py-3.5 rounded-xl font-bold hover:bg-blue-700 transition">Pilih Paket</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- REKRUTMEN TUTOR LEPASAN -->
+    <section id="tutor" class="py-20 px-6 max-w-5xl mx-auto text-center">
+        <div class="bg-gradient-to-br from-gray-900 to-indigo-950 text-white p-12 rounded-3xl shadow-xl">
+            <h2 class="text-3xl font-bold mb-4">Bergabung Sebagai Mitra Tutor Kami</h2>
+            <p class="text-gray-300 max-w-2xl mx-auto mb-8 text-lg">
+                Apakah Anda menguasai Bahasa Inggris dan mencari jam kerja yang fleksibel dengan kompensasi yang adil? Kami membuka lowongan untuk *Freelance Online Tutor*.
+            </p>
+            <div class="grid sm:grid-cols-3 gap-6 text-left max-w-3xl mx-auto mb-10">
+                <div class="flex items-start gap-3"><i class="fa-solid fa-circle-check text-blue-400 mt-1"></i> Jam kerja 100% fleksibel</div>
+                <div class="flex items-start gap-3"><i class="fa-solid fa-circle-check text-blue-400 mt-1"></i> Pembayaran berbasis jam mengajar</div>
